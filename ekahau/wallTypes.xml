@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<wall-types default="03">
+  <type id="30">
+    <key>30</key>
+    <name>30</name>
+    <width>1</width>
+    <attenuation>30</attenuation>
+    <color>#000000</color>
+  </type>
+  <type id="02">
+    <key>02</key>
+    <name>02</name>
+    <width>1</width>
+    <attenuation>02</attenuation>
+    <color>#FFD841</color>
+  </type>
+  <type id="03">
+    <key>03</key>
+    <name>03</name>
+    <width>1</width>
+    <attenuation>03</attenuation>
+    <color>#FFB12F</color>
+  </type>
+  <type id="26">
+    <key>26</key>
+    <name>26</name>
+    <width>1</width>
+    <attenuation>26</attenuation>
+    <color>#7C007C</color>
+  </type>
+  <type id="01">
+    <key>01</key>
+    <name>01</name>
+    <width>1</width>
+    <attenuation>01</attenuation>
+    <color>#FFFF54</color>
+  </type>
+  <type id="06">
+    <key>06</key>
+    <name>06</name>
+    <width>1</width>
+    <attenuation>06</attenuation>
+    <color>#DE8309</color>
+  </type>
+  <type id="07">
+    <key>07</key>
+    <name>07</name>
+    <width>1</width>
+    <attenuation>07</attenuation>
+    <color>#BEA209</color>
+  </type>
+  <type id="04">
+    <key>04</key>
+    <name>04</name>
+    <width>1</width>
+    <attenuation>04</attenuation>
+    <color>#FF8A1C</color>
+  </type>
+  <type id="05">
+    <key>05</key>
+    <name>05</name>
+    <width>1</width>
+    <attenuation>05</attenuation>
+    <color>#FF640A</color>
+  </type>
+  <type id="08">
+    <key>08</key>
+    <name>08</name>
+    <width>1</width>
+    <attenuation>08</attenuation>
+    <color>#9EC108</color>
+  </type>
+  <type id="09">
+    <key>09</key>
+    <name>09</name>
+    <width>1</width>
+    <attenuation>09</attenuation>
+    <color>#7EE008</color>
+  </type>
+  <type id="28">
+    <key>28</key>
+    <name>28</name>
+    <width>1</width>
+    <attenuation>28</attenuation>
+    <color>#3E003E</color>
+  </type>
+  <type id="29">
+    <key>29</key>
+    <name>29</name>
+    <width>1</width>
+    <attenuation>29</attenuation>
+    <color>#1F001F</color>
+  </type>
+  <type id="14">
+    <key>14</key>
+    <name>14</name>
+    <width>1</width>
+    <attenuation>14</attenuation>
+    <color>#31FFC2</color>
+  </type>
+  <type id="24">
+    <key>24</key>
+    <name>24</name>
+    <width>1</width>
+    <attenuation>24</attenuation>
+    <color>#8B07AF</color>
+  </type>
+  <type id="25">
+    <key>25</key>
+    <name>25</name>
+    <width>1</width>
+    <attenuation>25</attenuation>
+    <color>#9C009C</color>
+  </type>
+  <type id="27">
+    <key>27</key>
+    <name>27</name>
+    <width>1</width>
+    <attenuation>27</attenuation>
+    <color>#5D005D</color>
+  </type>
+  <type id="20">
+    <key>20</key>
+    <name>20</name>
+    <width>1</width>
+    <attenuation>20</attenuation>
+    <color>#4924FF</color>
+  </type>
+  <type id="21">
+    <key>21</key>
+    <name>21</name>
+    <width>1</width>
+    <attenuation>21</attenuation>
+    <color>#591CEB</color>
+  </type>
+  <type id="11">
+    <key>11</key>
+    <name>11</name>
+    <width>1</width>
+    <attenuation>11</attenuation>
+    <color>#52FF36</color>
+  </type>
+  <type id="10">
+    <key>10</key>
+    <name>10</name>
+    <width>1</width>
+    <attenuation>10</attenuation>
+    <color>#5EFF08</color>
+  </type>
+  <type id="13">
+    <key>13</key>
+    <name>13</name>
+    <width>1</width>
+    <attenuation>13</attenuation>
+    <color>#3CFF93</color>
+  </type>
+  <type id="12">
+    <key>12</key>
+    <name>12</name>
+    <width>1</width>
+    <attenuation>12</attenuation>
+    <color>#47FF65</color>
+  </type>
+  <type id="15">
+    <key>15</key>
+    <name>15</name>
+    <width>1</width>
+    <attenuation>15</attenuation>
+    <color>#26FFF1</color>
+  </type>
+  <type id="22">
+    <key>22</key>
+    <name>22</name>
+    <width>1</width>
+    <attenuation>22</attenuation>
+    <color>#6A15D7</color>
+  </type>
+  <type id="17">
+    <key>17</key>
+    <name>17</name>
+    <width>1</width>
+    <attenuation>17</attenuation>
+    <color>#34A7F6</color>
+  </type>
+  <type id="16">
+    <key>16</key>
+    <name>16</name>
+    <width>1</width>
+    <attenuation>16</attenuation>
+    <color>#2DD3F3</color>
+  </type>
+  <type id="19">
+    <key>19</key>
+    <name>19</name>
+    <width>1</width>
+    <attenuation>19</attenuation>
+    <color>#424FFC</color>
+  </type>
+  <type id="18">
+    <key>18</key>
+    <name>18</name>
+    <width>1</width>
+    <attenuation>18</attenuation>
+    <color>#3B7BF9</color>
+  </type>
+  <type id="23">
+    <key>23</key>
+    <name>23</name>
+    <width>1</width>
+    <attenuation>23</attenuation>
+    <color>#7A0EC3</color>
+  </type>
+</wall-types>
+
